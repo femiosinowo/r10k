@@ -14,6 +14,8 @@ mod 'evenup/tomcat'
 mod 'saz/motd'
 mod 'jfryman/selinux'
 mod 'razorsedge/vmwaretools'
+
+#dependecies
 mod 'wolfspyre/vmware_puppetfact'
  
  mod 'resolver',
