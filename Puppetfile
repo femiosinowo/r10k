@@ -12,7 +12,7 @@ mod 'darin/zypprepo'
 mod 'nanliu/staging'
 mod 'evenup/tomcat'
 mod 'saz/motd'
-mod 'spiette/selinux'
+mod 'jfryman/selinux'
 mod 'CraigWatson1987/vmwaretools'
  
  mod 'resolver',
