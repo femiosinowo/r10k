@@ -14,6 +14,7 @@ mod 'evenup/tomcat'
 mod 'saz/motd'
 mod 'jfryman/selinux'
 mod 'razorsedge/vmwaretools'
+mod 'wolfspyre/vmware_puppetfact'
  
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
