@@ -12,6 +12,7 @@ mod 'darin/zypprepo'
 mod 'nanliu/staging'
 mod 'evenup/tomcat'
 mod 'saz/motd'
+mod 'spiette/selinux'
  
  
  mod 'resolver',
