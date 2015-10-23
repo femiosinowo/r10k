@@ -21,6 +21,10 @@ mod 'example42/stdmod'
 #dependecies
 mod 'wolfspyre/vmware_puppetfact'
 
+#webhook
+mod 'wdijkerman/webhook'
+mod 'ploperations/bundler'
+
 #openstack
 mod 'openstack/neutron'
 mod 'openstack/keystone'
