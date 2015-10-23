@@ -15,11 +15,19 @@ mod 'saz/motd'
 mod 'jfryman/selinux'
 mod 'razorsedge/vmwaretools'
 mod 'puppetlabs/mysql'
-
+mod 'zack/r10k'
 mod 'example42/network'
 mod 'example42/stdmod'
 #dependecies
 mod 'wolfspyre/vmware_puppetfact'
+mod 'gentoo/portage'
+mod 'puppetlabs/git'
+mod 'puppetlabs/vcsrepo'
+mod 'puppetlabs/inifile'
+mod 'croddy/make'
+mod 'puppetlabs/pe_gem'
+mod 'puppetlabs/gcc'
+mod 'puppetlabs/ruby' 
 
 #webhook
 mod 'wdijkerman/webhook'
