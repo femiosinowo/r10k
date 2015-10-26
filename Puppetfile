@@ -15,7 +15,9 @@ mod 'saz/motd'
 mod 'jfryman/selinux'
 
 #vmware tools
-mod 'CraigWatson1987/vmwaretools'
+mod 'razorsedge/vmwaretools'
+mod 'wolfspyre/vmware_puppetfact'
+
 
 mod 'puppetlabs/mysql'
 mod 'zack/r10k'
