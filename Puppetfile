@@ -37,8 +37,8 @@ mod 'puppetlabs/ruby'
 #mod 'puppetlabs/ntp'
 
 #wordpress
-#mod 'hunner/wordpress'
-mod 'swizzley88/wordpress'
+mod 'hunner/wordpress'
+#mod 'swizzley88/wordpress'
 
 #webhook
 mod 'wdijkerman/webhook'
