@@ -32,7 +32,7 @@ mod 'puppetlabs/pe_gem'
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
 
-mod 'puppetlabs/ntp'
+#mod 'puppetlabs/ntp'
 
 #wordpress
 mod 'hunner/wordpress'
