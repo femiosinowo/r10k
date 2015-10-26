@@ -29,6 +29,10 @@ mod 'puppetlabs/pe_gem'
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
 
+#wordpress
+mod 'swizzley88/wordpress'
+mod 'swizzley88/artifact'
+
 #webhook
 mod 'wdijkerman/webhook'
 mod 'ploperations/bundler'
