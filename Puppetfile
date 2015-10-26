@@ -20,6 +20,8 @@ mod 'wolfspyre/vmware_puppetfact'
 
 
 mod 'puppetlabs/mysql'
+mod 'jlondon/phpmyadmin'
+
 mod 'zack/r10k'
 mod 'example42/network' 
 mod 'example42/stdmod'
