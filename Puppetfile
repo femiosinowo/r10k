@@ -13,7 +13,10 @@ mod 'nanliu/staging'
 mod 'evenup/tomcat'
 mod 'saz/motd'
 mod 'jfryman/selinux'
-mod 'razorsedge/vmwaretools'
+
+#vmware tools
+mod 'CraigWatson1987/vmwaretools'
+
 mod 'puppetlabs/mysql'
 mod 'zack/r10k'
 mod 'example42/network' 
