@@ -16,7 +16,7 @@ mod 'jfryman/selinux'
 mod 'razorsedge/vmwaretools'
 mod 'puppetlabs/mysql'
 mod 'zack/r10k'
-mod 'example42/network'
+mod 'example42/network' 
 mod 'example42/stdmod'
 #dependecies
 mod 'wolfspyre/vmware_puppetfact'
