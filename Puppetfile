@@ -24,6 +24,9 @@ mod 'jlondon/phpmyadmin'
 
 mod 'stahnma/epel'
 
+#GEM
+mod 'puppetlabs/pe_puppetserver_gem'
+
 mod 'zack/r10k'
 mod 'example42/network' 
 mod 'example42/stdmod'
