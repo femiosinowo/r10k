@@ -51,6 +51,14 @@ mod 'hunner/wordpress'
 mod 'wdijkerman/webhook'
 mod 'ploperations/bundler'
 
+#elkstack
+mod 'elasticsearch/elasticsearch'
+mod 'elasticsearch/logstash'
+mod 'elasticsearch/logstashforwarder'
+mod 'elasticsearch/logstash_reporter'
+mod 'ispavailability/file_concat'
+mod 'ceritsc/yum'
+
 #openstack
 mod 'openstack/neutron'
 mod 'openstack/keystone'
