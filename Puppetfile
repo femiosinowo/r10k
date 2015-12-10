@@ -70,6 +70,10 @@ mod 'openstack/horizon'
 mod 'openstack/heat'
 mod 'openstack/ceilometer'
 mod 'openstack/trove'
+
+
+#antivirus
+mod 'mjhas/clamav'
  
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
