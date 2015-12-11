@@ -62,6 +62,8 @@ mod 'ceritsc/yum'
 mod 'maestrodev/wget'
 mod 'camptocamp/archive'
 
+#nginx
+mod 'jfryman/nginx'
 
 #openstack
 mod 'openstack/neutron'
