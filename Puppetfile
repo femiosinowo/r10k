@@ -55,11 +55,14 @@ mod 'ploperations/bundler'
 mod 'elasticsearch/elasticsearch'
 mod 'elasticsearch/logstash'
 mod 'elasticsearch/logstashforwarder'
-mod 'evenup/kibana'
+#mod 'evenup/kibana'
+mod 'lesaux/kibana4'
 mod 'elasticsearch/logstash_reporter'
 mod 'ispavailability/file_concat'
 mod 'ceritsc/yum'
 mod 'maestrodev/wget'
+mod 'camptocamp/archive'
+
 
 #openstack
 mod 'openstack/neutron'
