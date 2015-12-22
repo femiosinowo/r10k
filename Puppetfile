@@ -36,10 +36,10 @@ mod 'gentoo/portage'
 mod 'puppetlabs/git'
 mod 'puppetlabs/vcsrepo'
 mod 'puppetlabs/inifile'
-mod 'croddy/make'
 mod 'puppetlabs/pe_gem'
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
+mod 'croddy/make'
 
 #mod 'puppetlabs/ntp'
 
