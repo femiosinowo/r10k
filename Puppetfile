@@ -40,6 +40,7 @@ mod 'puppetlabs/pe_gem'
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
 mod 'croddy/make'
+mod 'gajdaw/sinatra'
 
 #mod 'puppetlabs/ntp'
 
