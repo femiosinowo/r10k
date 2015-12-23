@@ -40,7 +40,6 @@ mod 'puppetlabs/pe_gem'
 mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
 mod 'croddy/make'
-mod 'gajdaw/sinatra'
 
 #mod 'puppetlabs/ntp'
 
@@ -51,6 +50,8 @@ mod 'hunner/wordpress'
 #webhook
 mod 'wdijkerman/webhook'
 mod 'ploperations/bundler'
+mod 'abrader/gms
+
 
 #elkstack
 mod 'elasticsearch/elasticsearch'
