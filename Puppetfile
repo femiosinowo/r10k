@@ -41,7 +41,7 @@ mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
 mod 'croddy/make'
 
-#mod 'puppetlabs/ntp'
+mod 'puppetlabs/ntp'
 
 #wordpress
 mod 'hunner/wordpress'
