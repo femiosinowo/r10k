@@ -63,6 +63,7 @@ mod 'ispavailability/file_concat'
 mod 'ceritsc/yum'
 mod 'maestrodev/wget'
 mod 'camptocamp/archive'
+mod 'richardc/datacat'
 
 #nginx
 mod 'jfryman/nginx'
