@@ -50,7 +50,7 @@ mod 'hunner/wordpress'
 #webhook
 mod 'wdijkerman/webhook'
 mod 'ploperations/bundler'
-mod 'abrader/gms
+mod 'abrader/gms'
 
 
 #elkstack
