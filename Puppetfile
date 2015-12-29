@@ -8,7 +8,7 @@ mod 'camptocamp/archive'
 mod 'aptituz/ssh'
 mod 'puppetlabs/apt'
 mod 'puppetlabs/java'
-mod 'darin/zypprepo'
+
 mod 'nanliu/staging'
 mod 'evenup/tomcat'
 mod 'saz/motd'
@@ -17,7 +17,7 @@ mod 'jfryman/selinux'
 #vmware tools
 mod 'razorsedge/vmwaretools'
 mod 'wolfspyre/vmware_puppetfact'
-
+mod 'darin/zypprepo'
 
 mod 'puppetlabs/mysql'
 mod 'jlondon/phpmyadmin'
