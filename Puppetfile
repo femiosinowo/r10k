@@ -27,7 +27,8 @@ mod 'stahnma/epel'
 #gitlab
 mod 'vshn/gitlab'
 
-
+#network
+mod 'razorsedge/network'
 
 
 #GEM
