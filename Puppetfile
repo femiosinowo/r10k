@@ -24,6 +24,12 @@ mod 'jlondon/phpmyadmin'
 
 mod 'stahnma/epel'
 
+#gitlab
+mod 'vshn/gitlab'
+
+
+
+
 #GEM
 mod 'puppetlabs/pe_puppetserver_gem'
 
