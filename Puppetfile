@@ -27,6 +27,10 @@ mod 'stahnma/epel'
 #gitlab
 mod 'vshn/gitlab'
 
+#consul-template
+gdhbashton/consul_template
+
+
 #network
 mod 'razorsedge/network'
 
