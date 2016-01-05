@@ -28,7 +28,7 @@ mod 'stahnma/epel'
 mod 'vshn/gitlab'
 
 #consul-template
-gdhbashton/consul_template
+mod 'gdhbashton/consul_template'
 
 
 #network
