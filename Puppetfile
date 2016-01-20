@@ -30,6 +30,8 @@ mod 'vshn/gitlab'
 #consul-template
 mod 'gdhbashton/consul_template'
 
+#python installation
+mod 'stankevich/python'
 
 #network
 mod 'razorsedge/network'
