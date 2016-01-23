@@ -54,6 +54,10 @@ mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
 mod 'croddy/make'
 
+#hiera
+mod 'hunner/hiera'
+
+
 mod 'puppetlabs/ntp'
 
 #wordpress
