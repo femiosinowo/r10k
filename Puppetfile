@@ -38,7 +38,7 @@ mod 'razorsedge/network'
 
 
 #GEM
-mod 'puppetlabs/pe_puppetserver_gem'
+#mod 'puppetlabs/pe_puppetserver_gem'
 
 mod 'zack/r10k'
 mod 'example42/network' 
