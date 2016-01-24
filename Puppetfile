@@ -12,7 +12,7 @@ mod 'puppetlabs/java'
 mod 'nanliu/staging'
 mod 'evenup/tomcat'
 mod 'saz/motd'
-mod 'jfryman/selinux'
+#mod 'jfryman/selinux'
 
 #vmware tools
 mod 'razorsedge/vmwaretools'
