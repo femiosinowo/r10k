@@ -26,6 +26,9 @@ mod 'stahnma/epel'
 #haproxy
 mod 'puppetlabs/haproxy'
 
+#apache
+mod 'puppetlabs/apache'
+
 
 
 #gitlab
