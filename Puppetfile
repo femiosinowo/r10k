@@ -24,7 +24,7 @@ mod 'jlondon/phpmyadmin'
 
 mod 'stahnma/epel'
 #haproxy
-puppetlabs/haproxy
+mod 'puppetlabs/haproxy'
 
 
 
