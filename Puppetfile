@@ -29,6 +29,9 @@ mod 'puppetlabs/haproxy'
 #apache
 mod 'puppetlabs/apache'
 
+#artifactory
+mod 'evenup/artifactory'
+
 
 
 #gitlab
@@ -64,6 +67,8 @@ mod 'croddy/make'
 #hiera
 mod 'hunner/hiera'
 
+#nexus for war repo
+mod 'hubspot/nexus'
 
 mod 'puppetlabs/ntp'
 
