@@ -108,7 +108,7 @@ mod 'openstack/ceilometer'
 mod 'openstack/trove'
 
 #mcollective
-mod 'camptocamp/mcollective'
+mod 'evenup/mcollective'
 #mod 'camptocamp/ruby'
 
 #antivirus
