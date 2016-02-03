@@ -108,8 +108,8 @@ mod 'openstack/ceilometer'
 mod 'openstack/trove'
 
 #mcollective
-mod 'jorhett/mcollective'
- 
+#mod 'jorhett/mcollective'
+mod 'puppetlabs/mcollective'
 
 #antivirus
 mod 'mjhas/clamav'
