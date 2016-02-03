@@ -108,8 +108,10 @@ mod 'openstack/ceilometer'
 mod 'openstack/trove'
 
 #mcollective
-#mod 'jorhett/mcollective'
-mod 'puppetlabs/mcollective'
+mod 'camptocamp/mcollective'
+mod 'camptocamp/ruby'
+
+#activemq
 mod 'example42/activemq'
 mod 'example42/puppi'
 #mod 'example42/yum'
