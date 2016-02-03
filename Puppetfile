@@ -113,7 +113,7 @@ mod 'puppetlabs/mcollective'
 mod 'example42/activemq'
 mod 'example42/puppi'
 #mod 'example42/yum'
-#mod 'example42/java'
+mod 'example42/java'
 
 #antivirus
 mod 'mjhas/clamav'
