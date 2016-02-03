@@ -109,7 +109,7 @@ mod 'openstack/trove'
 
 #mcollective
 mod 'camptocamp/mcollective'
-mod 'camptocamp/ruby'
+#mod 'camptocamp/ruby'
 
 #activemq
 mod 'example42/activemq'
