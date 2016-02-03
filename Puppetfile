@@ -93,7 +93,7 @@ mod 'ceritsc/yum'
 mod 'maestrodev/wget'
 mod 'camptocamp/archive'
 mod 'richardc/datacat'
- 
+ mod 'example42/yum'
 #nginx
 mod 'jfryman/nginx'
 
