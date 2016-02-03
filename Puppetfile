@@ -112,10 +112,8 @@ mod 'camptocamp/mcollective'
 #mod 'camptocamp/ruby'
 
 #activemq
-mod 'example42/activemq'
-mod 'example42/puppi'
-#mod 'example42/yum'
-mod 'example42/java'
+mod 'maestrodev/activemq'
+ 
 
 #antivirus
 mod 'mjhas/clamav'
