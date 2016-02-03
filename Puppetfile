@@ -110,6 +110,9 @@ mod 'openstack/trove'
 #mcollective
 #mod 'jorhett/mcollective'
 mod 'puppetlabs/mcollective'
+mod 'example42/activemq'
+mod 'example42/puppi'
+
 
 #antivirus
 mod 'mjhas/clamav'
