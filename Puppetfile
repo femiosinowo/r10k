@@ -112,7 +112,7 @@ mod 'jorhett/mcollective'
  
 
 #activemq
-mod 'maestrodev/activemq'
+mod 'puppetlabs/activemq'
  
 
 #antivirus
