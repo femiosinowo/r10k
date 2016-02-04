@@ -98,14 +98,14 @@ mod 'richardc/datacat'
 mod 'jfryman/nginx'
 
 #openstack
-mod 'openstack/neutron'
-mod 'openstack/keystone'
-mod 'openstack/nova'
-mod 'openstack/swift'
-mod 'openstack/horizon'
-mod 'openstack/heat'
-mod 'openstack/ceilometer'
-mod 'openstack/trove'
+#mod 'openstack/neutron'
+#mod 'openstack/keystone'
+#mod 'openstack/nova'
+#mod 'openstack/swift'
+#mod 'openstack/horizon'
+#mod 'openstack/heat'
+#mod 'openstack/ceilometer'
+#mod 'openstack/trove'
 
 #mcollective
 mod 'jorhett/mcollective'
