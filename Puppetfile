@@ -64,6 +64,9 @@ mod 'puppetlabs/gcc'
 mod 'puppetlabs/ruby' 
 mod 'croddy/make'
 
+#cobbler
+mod 'abaranov/cobbler'
+
 #hiera
 mod 'hunner/hiera'
 
