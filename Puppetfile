@@ -120,6 +120,10 @@ mod 'maestrodev/activemq'
 
 #antivirus
 mod 'mjhas/clamav'
+
+#sensu
+mod 'sensu/sensu'
+mod 'lwf/remote_file'
  
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
