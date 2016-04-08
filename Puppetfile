@@ -47,6 +47,11 @@ mod 'stankevich/python'
 mod 'razorsedge/network'
 
 
+#weblogic
+mod 'biemond/jdk7'
+
+
+
 #GEM
 #mod 'puppetlabs/pe_puppetserver_gem'
 
