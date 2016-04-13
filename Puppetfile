@@ -134,6 +134,7 @@ mod 'lwf/remote_file'
 mod 'arioch/redis'
 #rabbitmq
 mod 'puppetlabs/rabbitmq'
+ mod 'garethr/erlang'
  
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
