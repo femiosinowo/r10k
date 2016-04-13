@@ -131,7 +131,7 @@ mod 'sensu/sensu'
 mod 'lwf/remote_file'
 
 #redis
-mod 'example42/redis'
+mod 'arioch/redis'
 #rabbitmq
 mod 'puppetlabs/rabbitmq'
 mod 'garethr/erlang'
