@@ -131,10 +131,10 @@ mod 'sensu/sensu'
 mod 'lwf/remote_file'
 
 #redis
-mod 'arioch/redis'
+mod 'example42/redis'
 #rabbitmq
 mod 'puppetlabs/rabbitmq'
- mod 'garethr/erlang'
+mod 'garethr/erlang'
  
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
