@@ -129,7 +129,7 @@ mod 'mjhas/clamav'
 #sensu
 mod 'sensu/sensu'
 mod 'lwf/remote_file'
-
+mod 'yelp/uchiwa'
 #redis
 mod 'evenup/redis'
 #rabbitmq
