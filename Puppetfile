@@ -131,7 +131,7 @@ mod 'sensu/sensu'
 mod 'lwf/remote_file'
 mod 'yelp/uchiwa'
 #redis
-mod 'evenup/redis'
+mod 'dwerder/redis'
 #rabbitmq
 mod 'puppetlabs/rabbitmq'
 mod 'garethr/erlang'
