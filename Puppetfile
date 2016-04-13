@@ -129,6 +129,11 @@ mod 'mjhas/clamav'
 #sensu
 mod 'sensu/sensu'
 mod 'lwf/remote_file'
+
+#redis
+mod 'arioch/redis'
+#rabbitmq
+mod 'puppetlabs/rabbitmq'
  
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
