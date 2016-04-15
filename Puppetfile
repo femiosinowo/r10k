@@ -50,6 +50,8 @@ mod 'razorsedge/network'
 #weblogic
 mod 'biemond/jdk7'
 
+#
+mod 'gini/archive'
 
 
 #GEM
