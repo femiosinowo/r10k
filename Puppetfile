@@ -51,7 +51,7 @@ mod 'razorsedge/network'
 mod 'biemond/jdk7'
 
 #
-mod 'gini/archive'
+mod 'puppet/staging'
 
 
 #GEM
