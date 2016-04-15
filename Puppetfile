@@ -50,8 +50,7 @@ mod 'razorsedge/network'
 #weblogic
 mod 'biemond/jdk7'
 
-#
-mod 'puppet/staging'
+ 
 
 
 #GEM
