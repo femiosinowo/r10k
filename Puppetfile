@@ -26,6 +26,7 @@ mod 'stahnma/epel'
 #haproxy
 mod 'puppetlabs/haproxy'
 
+mod 'panaman/pathmunge'
 #apache
 mod 'puppetlabs/apache'
 
