@@ -138,6 +138,10 @@ mod 'evenup/redis'
 mod 'puppetlabs/rabbitmq'
 mod 'garethr/erlang'
  
+ 
+ #plex
+ mod 'WhatsARanjit/plexmediaserver'
+ 
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
 	
