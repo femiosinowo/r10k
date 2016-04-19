@@ -33,7 +33,8 @@ mod 'puppetlabs/apache'
 #artifactory
 mod 'evenup/artifactory'
 
-
+#samba
+mod 'kakwa/samba'
 
 #gitlab
 mod 'vshn/gitlab'
