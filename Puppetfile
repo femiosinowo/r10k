@@ -7,7 +7,7 @@ mod 'rtyler/jenkins'
 mod 'camptocamp/archive'
 mod 'aptituz/ssh'
 mod 'puppetlabs/apt'
-mod 'puppetlabs/java'
+mod 'puppetlabs/java' 
 
 mod 'nanliu/staging'
 mod 'evenup/tomcat'
@@ -139,7 +139,8 @@ mod 'evenup/redis'
 mod 'puppetlabs/rabbitmq'
 mod 'garethr/erlang'
  
- 
+mod 'puppetlabs/aws'
+
  #plex
  mod 'WhatsARanjit/plexmediaserver'
  
