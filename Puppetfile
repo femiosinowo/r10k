@@ -155,3 +155,6 @@ mod 'puppetlabs/aws'
 	
  mod 'role',
 	:git	=> 'https://github.com/femiosinowo/role.git'
+	
+ mod 'infrastructure',
+	:git	=> 'https://github.com/femiosinowo/infrastructure.git'
