@@ -124,8 +124,13 @@ mod 'jorhett/mcollective'
 
 #activemq
 mod 'maestrodev/activemq'
- 
 
+
+#jira
+mod 'puppet/jira' 
+mod 'mkrakowitzer/deploy'
+
+mod 'schrepfler/jdk_oracle'
 #antivirus
 mod 'mjhas/clamav'
 
