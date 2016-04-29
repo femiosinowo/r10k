@@ -120,7 +120,8 @@ mod 'jfryman/nginx'
  
 #mcollective
 mod 'jorhett/mcollective'
- 
+
+mod 'puppetlabs/postgresql' 
 
 #activemq
 mod 'maestrodev/activemq'
