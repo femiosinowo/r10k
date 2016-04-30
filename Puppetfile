@@ -4,7 +4,7 @@ mod 'puppetlabs/concat'
 
 mod 'puppetlabs/firewall'
 mod 'rtyler/jenkins'
-mod 'camptocamp/archive'
+mod 'camptocamp/archive' 
 mod 'aptituz/ssh'
 mod 'puppetlabs/apt'
 mod 'puppetlabs/java' 
@@ -150,6 +150,7 @@ mod 'puppetlabs/aws'
 
  #plex
  mod 'WhatsARanjit/plexmediaserver'
+ mod 'camptocamp/archive' 
  
  mod 'resolver',
 	:git	=> 'https://github.com/femiosinowo/resolver.git'
