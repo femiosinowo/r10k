@@ -102,7 +102,7 @@ mod 'pcfens/filebeat'
 mod 'ispavailability/file_concat'
 mod 'ceritsc/yum'
 mod 'maestrodev/wget'
-mod 'camptocamp/archive'
+ 
 mod 'richardc/datacat'
  mod 'example42/yum'
 #nginx
@@ -130,7 +130,7 @@ mod 'maestrodev/activemq'
 #jira
 mod 'puppet/jira' 
 mod 'mkrakowitzer/deploy'
-mod 'puppet/archive'
+#mod 'puppet/archive'
 mod 'aco/oracle_java'
 mod 'schrepfler/jdk_oracle'
 #antivirus
