@@ -128,11 +128,12 @@ mod 'maestrodev/activemq'
 
 
 #jira
-mod 'puppet/jira' 
-mod 'mkrakowitzer/deploy'
+#mod 'puppet/jira' 
+#mod 'mkrakowitzer/deploy'
 #mod 'puppet/archive'
-mod 'aco/oracle_java'
-mod 'schrepfler/jdk_oracle'
+#mod 'aco/oracle_java'
+#mod 'schrepfler/jdk_oracle'
+
 #antivirus
 mod 'mjhas/clamav'
 
