@@ -15,6 +15,8 @@ mod 'saz/motd'
 #mod 'jfryman/selinux'
 #dns
 mod 'ajjahn/dns'
+mod 'electrical/file_concat'
+
 #vmware tools
 mod 'razorsedge/vmwaretools'
 mod 'wolfspyre/vmware_puppetfact'
