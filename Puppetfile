@@ -43,6 +43,9 @@ mod 'vshn/gitlab'
 #consul-template
 mod 'gdhbashton/consul_template'
 
+#
+mod 'nibalizer/puppetboard'
+
 #python installation
 mod 'stankevich/python'
 
