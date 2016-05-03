@@ -150,7 +150,7 @@ mod 'garethr/erlang'
  
 #dns
 mod 'ajjahn/dns'
-mod 'electrical/file_concat'
+#mod 'electrical/file_concat'
 
 mod 'puppetlabs/aws'
 
