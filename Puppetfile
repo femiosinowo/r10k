@@ -13,7 +13,8 @@ mod 'nanliu/staging'
 mod 'evenup/tomcat'
 mod 'saz/motd'
 #mod 'jfryman/selinux'
-
+#dns
+mod 'ajjahn/dns'
 #vmware tools
 mod 'razorsedge/vmwaretools'
 mod 'wolfspyre/vmware_puppetfact'
