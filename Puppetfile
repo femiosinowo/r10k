@@ -13,9 +13,7 @@ mod 'nanliu/staging'
 mod 'evenup/tomcat'
 mod 'saz/motd'
 #mod 'jfryman/selinux'
-#dns
-mod 'ajjahn/dns'
-mod 'electrical/file_concat'
+
 
 #vmware tools
 mod 'razorsedge/vmwaretools'
@@ -150,6 +148,10 @@ mod 'evenup/redis'
 mod 'puppetlabs/rabbitmq'
 mod 'garethr/erlang'
  
+#dns
+mod 'ajjahn/dns'
+mod 'electrical/file_concat'
+
 mod 'puppetlabs/aws'
 
  #plex
