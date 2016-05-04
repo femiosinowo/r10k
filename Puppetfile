@@ -105,7 +105,7 @@ mod 'elasticsearch/logstash'
 mod 'elasticsearch/logstashforwarder'
 mod 'lesaux/kibana4'
 mod 'pcfens/filebeat'
-#mod 'ispavailability/file_concat'
+mod 'ispavailability/file_concat'
 mod 'ceritsc/yum'
 mod 'maestrodev/wget'
  
