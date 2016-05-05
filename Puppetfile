@@ -9,7 +9,7 @@ mod 'aptituz/ssh'
 mod 'puppetlabs/apt'
 mod 'puppetlabs/java' 
 
-mod 'camptocamp/bind'
+ 
 
 mod 'nanliu/staging'
 mod 'evenup/tomcat'
@@ -177,3 +177,6 @@ mod 'puppetlabs/aws'
 	
  mod 'infrastructure',
 	:git	=> 'https://github.com/femiosinowo/infrastructure.git'
+
+mod 'bind',
+   :git => 'https://github.com/femiosinowo/puppet-bind.git'
